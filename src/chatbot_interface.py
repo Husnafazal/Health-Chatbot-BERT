@@ -40,3 +40,4 @@ for question in questions:
     answer = get_answer(question, context)
     print(f"Question: {question}")
     print(f"Answer: {answer}\n")
+    
